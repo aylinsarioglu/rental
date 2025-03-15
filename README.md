@@ -115,13 +115,13 @@ const Form: FC = () => {
 # DNS
 
 - Domain name system, alan adlarını ip adresine çeviren bir sistemdir.
-- Kullanıcılar bir websitesine alan adıyla (www.furkanevin.xyz) erişmek istediklerinde, DNS bu alana adını sunucunun IP adersine çevirir. Böylece, kullanıcı siteye erişmek için karmaşık bir ip adresi yazmak yerine daha basit bir alan adı yazar
+- Kullanıcılar bir websitesine alan adıyla (www.aylinsarioglu.xyz) erişmek istediklerinde, DNS bu alana adını sunucunun IP adersine çevirir. Böylece, kullanıcı siteye erişmek için karmaşık bir ip adresi yazmak yerine daha basit bir alan adı yazar
 
 ## DNS Kayıt Türleri
 
 1. A (Adress) Kaydı: Bir alan adının hangi ip adresine yönlenderileceğini belirler
 
-- Örneğin "www.furkanevin.xyz" adersine girildiğinde a kaydının değeri olan ip aderesine (192.168.1.1) yönlendirir
+- Örneğin "www.aylinsarioglu.xyz" adersine girildiğinde a kaydının değeri olan ip aderesine (192.168.1.1) yönlendirir
 
 2. NS (Name Server) Kaydı: Alan adının hangi ad sunucuları tarafından yönetilidğini belirtir
 
