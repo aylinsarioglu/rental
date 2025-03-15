@@ -126,3 +126,12 @@ const Form: FC = () => {
 2. NS (Name Server) Kaydı: Alan adının hangi ad sunucuları tarafından yönetilidğini belirtir
 
 3. CNAME (Canonical Name) Kaydı: Bir alan adını başka bir alan adına yönlendirir.
+
+
+
+# Ekran Kaydı
+
+
+https://github.com/user-attachments/assets/9ca1d32b-c6df-4b14-b221-eaf8f7f490ca
+
+
